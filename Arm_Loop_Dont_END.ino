@@ -20,8 +20,6 @@ int grab_position[20];
 int servo_Left_position[20];
 int servo_Right_position[20];
 int servo_Center_position[20];
-boolean StartLoop = false;
-boolean Loop = false;
 //END SAVE POSITION//
 
 void setup()
